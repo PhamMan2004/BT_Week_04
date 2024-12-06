@@ -1,0 +1,5 @@
+﻿Build started at 2:14 CH...
+1>------ Build started: Project: Web4, Configuration: Debug Any CPU ------
+1>  Web4 -> C:\Users\ASUS\source\repos\Web4\bin\Debug\Web4.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 2:14 CH and took 00,890 seconds ==========

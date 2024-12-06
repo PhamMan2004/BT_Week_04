@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BT_TUAN_4
+namespace Web4
 {
     internal static class Program
     {
@@ -16,8 +16,7 @@ namespace BT_TUAN_4
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new lblListView());
-
+            Application.Run(new Form1());
         }
     }
 }
